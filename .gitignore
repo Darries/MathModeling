@@ -22,9 +22,15 @@ Desktop.ini
 ~$*
 
 # Local materials: review and obtain consent before tracking
-/01_Problem/
-/02_References/
-/03_Data/
-/05_Results/
-/06_Paper/
-/07_Notes/
+/01_Problem/*
+!/01_Problem/.gitkeep
+/02_References/*
+!/02_References/.gitkeep
+/03_Data/*
+!/03_Data/.gitkeep
+/05_Results/*
+!/05_Results/.gitkeep
+/06_Paper/*
+!/06_Paper/.gitkeep
+/07_Notes/*
+!/07_Notes/.gitkeep
