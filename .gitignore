@@ -1,0 +1,30 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+~$*
+
+# Local materials: review and obtain consent before tracking
+/01_Problem/
+/02_References/
+/03_Data/
+/05_Results/
+/06_Paper/
+/07_Notes/
