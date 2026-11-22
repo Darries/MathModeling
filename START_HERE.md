@@ -8,13 +8,22 @@
 
 1. 三人各自使用自己的 GitHub 与 Codex 账号；仓库所有者邀请队友加入私有仓库。
 2. 队友克隆仓库，在 Codex 中把下载后的 MathModeling 文件夹设为项目文件夹。
-3. 阅读 [协作约定](00_Collaboration/WORKFLOW.md)，确定建模、代码、论文三个负责人。
+3. 阅读 [团队入门说明](00_Collaboration/TEAM_QUICKSTART.md) 和 [协作约定](00_Collaboration/WORKFLOW.md)，按阶段安排人类任务；建模、代码与论文由 Agent 配合 Skills 推进。
 4. 阅读 [共享边界](00_Collaboration/SHARING.md)，确认本次允许共享的资料。七个目录通过 `.gitkeep` 占位文件保留，克隆后会自动出现。
 
 ## 工作入口
 
+不知道先做什么时：先看进度，选一个小任务，复制任务模板填写；找到技能先登记候选，完成工作后写交接。不要把每个文件夹分给一个固定成员。
+
 | 任务 | 文件 |
 | --- | --- |
+| 给组员的简单入门说明 | [TEAM_QUICKSTART.md](00_Collaboration/TEAM_QUICKSTART.md) |
+| 新建任务、确认与交接 | [TASK_TEMPLATE.md](00_Collaboration/TASK_TEMPLATE.md) |
+| 共享技能清单与接入规范 | [SKILL_GUIDE.md](00_Collaboration/SKILL_GUIDE.md) |
+| 提交一个候选技能 | [候选目录](08_Skill_Candidates/README.md) |
+| 记录数据、文献、图表及实验来源 | [SOURCE_TEMPLATE.md](00_Collaboration/SOURCE_TEMPLATE.md) |
+| 记录 AI 的实际使用 | [AI_USAGE_TEMPLATE.md](00_Collaboration/AI_USAGE_TEMPLATE.md) |
+| 检查成员的运行环境 | [ENVIRONMENT_CHECKLIST.md](00_Collaboration/ENVIRONMENT_CHECKLIST.md) |
 | 分工、同步、评审与新队友接入 | [WORKFLOW.md](00_Collaboration/WORKFLOW.md) |
 | 模型定义和选择理由 | [MODEL_HANDOFF.md](00_Collaboration/MODEL_HANDOFF.md) |
 | 运行记录、实际结果、图表和验证 | [EXPERIMENT_HANDOFF.md](00_Collaboration/EXPERIMENT_HANDOFF.md) |
