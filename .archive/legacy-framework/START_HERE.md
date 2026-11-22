@@ -20,7 +20,7 @@
 | 给组员的简单入门说明 | [TEAM_QUICKSTART.md](00_Collaboration/TEAM_QUICKSTART.md) |
 | 新建任务、确认与交接 | [TASK_TEMPLATE.md](00_Collaboration/TASK_TEMPLATE.md) |
 | 共享技能清单与接入规范 | [SKILL_GUIDE.md](00_Collaboration/SKILL_GUIDE.md) |
-| 提交一个候选技能 | [候选目录](08_Skill_Candidates/README.md) |
+| 按八种用途查找或提交技能 | [技能分类目录](08_Skill_Candidates/README.md) |
 | 记录数据、文献、图表及实验来源 | [SOURCE_TEMPLATE.md](00_Collaboration/SOURCE_TEMPLATE.md) |
 | 记录 AI 的实际使用 | [AI_USAGE_TEMPLATE.md](00_Collaboration/AI_USAGE_TEMPLATE.md) |
 | 检查成员的运行环境 | [ENVIRONMENT_CHECKLIST.md](00_Collaboration/ENVIRONMENT_CHECKLIST.md) |

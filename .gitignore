@@ -34,3 +34,28 @@ Desktop.ini
 !/06_Paper/.gitkeep
 /07_Notes/*
 !/07_Notes/.gitkeep
+
+# New simplified layout: only shared guides are allowed by default
+/problem/*
+!/problem/README.md
+/results/*
+!/results/README.md
+/paper/*
+!/paper/README.md
+!/paper/references/
+/paper/references/*
+!/paper/references/README.md
+
+# Legacy private material stays local after archiving
+/.archive/legacy-framework/01_Problem/*
+!/.archive/legacy-framework/01_Problem/.gitkeep
+/.archive/legacy-framework/02_References/*
+!/.archive/legacy-framework/02_References/.gitkeep
+/.archive/legacy-framework/03_Data/*
+!/.archive/legacy-framework/03_Data/.gitkeep
+/.archive/legacy-framework/05_Results/*
+!/.archive/legacy-framework/05_Results/.gitkeep
+/.archive/legacy-framework/06_Paper/*
+!/.archive/legacy-framework/06_Paper/.gitkeep
+/.archive/legacy-framework/07_Notes/*
+!/.archive/legacy-framework/07_Notes/.gitkeep
