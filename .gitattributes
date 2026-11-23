@@ -1,0 +1,3 @@
+# Preserve original downloaded bytes and their published SHA256 on every OS.
+problem/002_2026-11-23_bike-sharing/data/day.csv -text
+problem/002_2026-11-23_bike-sharing/data/Readme.txt -text
